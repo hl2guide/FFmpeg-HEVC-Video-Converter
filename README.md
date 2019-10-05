@@ -7,7 +7,7 @@ VITAL: Always check the resulting video files, ending with "(HEVC)" for expected
 ## Usage
 
 1. download FFmpeg for Windows: https://ffmpeg.zeranoe.com/builds/
-2. extract ffmepg.exe to a known path
+2. extract ffmpeg.exe to a known path
 3. download **convert_to_HEVC_using_ffmpeg.ps1** and create **video_file_list.txt** alongside it
 4. make 4 edits in **convert_to_HEVC_using_ffmpeg.ps1** using PowerShell ISE
 5. copy+paste full paths into **video_file_list.txt** and save

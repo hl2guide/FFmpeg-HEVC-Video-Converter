@@ -2,7 +2,7 @@
 
 A PowerShell script to convert videos to the HEVC video format utilizing hardware acceleration using FFmpeg for Windows.
 
-VITAL: Always check the resulting video files, ending with "(HEVC)" for expected length and try them out in a videop player.
+VITAL: Always check the resulting video files, ending with "(HEVC)" for expected length and try them out in a video player.
 
 ## Usage
 

@@ -1,10 +1,26 @@
-# FFmpeg-HEVC-Video-Converter
+# FFmpeg-HEVC-Video-Converter 1.0
 
-A PowerShell script to convert videos to the HEVC video format utilizing hardware acceleration using FFmpeg for Windows.
+A PowerShell script to convert videos to the HEVC video format utilizing GPU hardware acceleration using FFmpeg for Windows.
 
-VITAL: Always check the resulting video files, ending with "(HEVC)" for expected length and try them out in a video player.
+The main benefit being that you can save disk space significantly (most of the time):
 
-## Usage
+## Examples
+
+- 2.5GB MP4 to 500MB HEVC
+- 3GB to 800MB HEVC
+
+_Results vary and depend on the input video's format, bitrate etc._
+
+## Minimum System Requirements
+
+- PC with at least 2 cores
+- Recent NVidia or AMD graphics card
+
+**VITAL: ALWAYS check the resulting video files, ending with "(HEVC)" for expected length and try them out in a video player.**
+
+**Please note that the resulting HEVC videos require a more powerful PC to decode and playback, than the original would.**
+
+## Script Usage
 
 1. download FFmpeg for Windows: https://ffmpeg.zeranoe.com/builds/
 2. extract ffmpeg.exe to a known path

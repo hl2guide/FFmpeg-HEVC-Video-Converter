@@ -31,4 +31,4 @@ _Results vary and depend on the input video's format, bitrate etc._
 
 # Screenshots
 
-[ffmpeg]: https://raw.githubusercontent.com/hl2guide/FFmpeg-HEVC-Video-Converter/master/MEDIA/FFmpeg.png "FFMPEG"
+[ffmpeg stable release selections shown](https://raw.githubusercontent.com/hl2guide/FFmpeg-HEVC-Video-Converter/master/MEDIA/FFmpeg.png "FFMPEG")

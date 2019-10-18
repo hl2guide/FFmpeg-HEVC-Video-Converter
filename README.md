@@ -29,6 +29,6 @@ _Results vary and depend on the input video's format, bitrate etc._
 5. copy+paste full paths into **video_file_list.txt** and save
 6. run **convert_to_HEVC_using_ffmpeg.ps1** to convert to HEVC
 
-# Screenshots
+## Screenshots
 
 [ffmpeg stable release selections shown](https://raw.githubusercontent.com/hl2guide/FFmpeg-HEVC-Video-Converter/master/MEDIA/FFmpeg.png "FFMPEG")

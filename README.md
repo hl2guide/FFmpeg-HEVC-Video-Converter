@@ -6,8 +6,8 @@ The main benefit being that you can save disk space significantly (most of the t
 
 ## Examples
 
-- 2.5GB MP4 to 500MB HEVC
-- 3GB to 800MB HEVC
+- 2.5GB MP4 to 500MB HEVC MP4
+- 3GB MP4 to 800MB HEVC MP4
 
 _Results vary and depend on the input video's format, bitrate etc._
 
@@ -22,9 +22,13 @@ _Results vary and depend on the input video's format, bitrate etc._
 
 ## Script Usage
 
-1. download FFmpeg for Windows: https://ffmpeg.zeranoe.com/builds/
-2. extract ffmpeg.exe to a known path
+1. download FFmpeg for Windows: https://ffmpeg.zeranoe.com/builds/ (see screenshots below)
+2. extract ffmpeg.exe to a known path/folder
 3. download **convert_to_HEVC_using_ffmpeg.ps1** and create **video_file_list.txt** alongside it
 4. make 4 edits in **convert_to_HEVC_using_ffmpeg.ps1** using PowerShell ISE
 5. copy+paste full paths into **video_file_list.txt** and save
 6. run **convert_to_HEVC_using_ffmpeg.ps1** to convert to HEVC
+
+# Screenshots
+
+[ffmpeg]: https://raw.githubusercontent.com/hl2guide/FFmpeg-HEVC-Video-Converter/master/MEDIA/FFmpeg.png

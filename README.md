@@ -5,14 +5,14 @@ A PowerShell script to convert videos to the HEVC video format utilizing GPU har
 
 The main benefit being that you can save disk space significantly (most of the time).
 
-## Space Saving Examples
+## Space Saving Examples 💡
 
 - 2.5GB MP4 to 500MB HEVC MP4
 - 3GB MP4 to 800MB HEVC MP4
 
 _Results vary and depend on the input video's format, bitrate etc._
 
-## Minimum System Requirements
+## Minimum System Requirements 🖥️
 
 - PC with at least 2 cores
 - Recent NVidia or AMD graphics card
@@ -20,7 +20,7 @@ _Results vary and depend on the input video's format, bitrate etc._
 
 **VITAL: ALWAYS check the resulting video files, ending with "(HEVC)" for expected length and try them out in a video player checking for quality and smooth playback.**
 
-## Encoding
+## Encoding ↗️
 
 During encoding (conversion) it is normal for high **CPU** and **GPU** usage. Be sure to only run the script when the PC has no other processes hogging up resources.
 

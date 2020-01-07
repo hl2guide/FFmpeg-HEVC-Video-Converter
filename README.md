@@ -26,11 +26,11 @@ During encoding (conversion) it is normal for high **CPU** and **GPU** usage. Be
 
 The script encodes the files alongside the original with (HEVC) at the end of the filename.
 
-## Decoding
+## Decoding 📽️
 
 The resulting HEVC videos require a more powerful PC to decode and playback, than the original would.
 
-## Script Usage
+## Script Usage 📜
 
 1. Download FFmpeg for Windows: https://ffmpeg.zeranoe.com/builds/ (see screenshots below)
 2. Extract ffmpeg.exe to a known path/folder
@@ -39,6 +39,6 @@ The resulting HEVC videos require a more powerful PC to decode and playback, tha
 5. Copy+paste full paths into **video_file_list.txt** and save
 6. Run **convert_to_HEVC_using_ffmpeg.ps1** to convert to HEVC
 
-## Screenshots
+## Screenshots 📸
 
 [ffmpeg stable release selections shown](https://raw.githubusercontent.com/hl2guide/FFmpeg-HEVC-Video-Converter/master/MEDIA/FFmpeg.png "FFMPEG Download Example")

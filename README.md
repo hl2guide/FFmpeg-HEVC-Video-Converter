@@ -20,7 +20,7 @@ _Results vary and depend on the input video's format, bitrate etc._
 
 **VITAL: ALWAYS check the resulting video files, ending with "(HEVC)" for expected length and try them out in a video player checking for quality and smooth playback.**
 
-## Encoding ↗️
+## Encoding 🎞️
 
 During encoding (conversion) it is normal for high **CPU** and **GPU** usage. Be sure to only run the script when the PC has no other processes hogging up resources.
 

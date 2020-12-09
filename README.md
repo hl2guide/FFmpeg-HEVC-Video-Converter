@@ -5,6 +5,8 @@ A PowerShell script to convert videos to the HEVC video format utilizing GPU har
 
 The main benefit being that you can save disk space significantly (most of the time).
 
+🛑 This repo is no longer maintained.
+
 ## Space Saving Examples 💡
 
 - 2.5GB MP4 to 500MB HEVC MP4

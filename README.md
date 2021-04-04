@@ -1,11 +1,12 @@
 
 # FFmpeg-HEVC-Video-Converter 1.0
 
+🥶 The repo is archived, I don't expect to do more work on it.
+🛑 This repo is no longer maintained.
+
 A PowerShell script to convert videos to the HEVC video format utilizing GPU hardware acceleration using FFmpeg for Windows.
 
 The main benefit being that you can save disk space significantly (most of the time).
-
-🛑 This repo is no longer maintained.
 
 ## Space Saving Examples 💡
 
